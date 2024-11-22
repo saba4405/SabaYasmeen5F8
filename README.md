@@ -26,5 +26,5 @@ test -account
 
 |S.no.|Assignment|link|
 |-----|----------|----|
-|1.|Python Fundamentals|https://github.com/saba4405/SabaYasmeen5F8/blob/1403f0445fa4fbaff24ebc0128d31555a34bc379/assignment_01.ipynb|
+|1.|Python Fundamentals|[Python](https://github.com/saba4405/SabaYasmeen5F8/blob/1403f0445fa4fbaff24ebc0128d31555a34bc379/assignment_01.ipynb)|
 
