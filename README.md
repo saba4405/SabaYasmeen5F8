@@ -21,3 +21,8 @@ test -account
 *Machine Learning*
 1.The capabilities of AI systems to   learn by extracting patterns from   data is known as ML.
 2.
+
+
+
+|S.no.|Assignment|link|
+|-----|----------|----|
