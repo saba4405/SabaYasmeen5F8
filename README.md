@@ -25,3 +25,6 @@ test -account
 
 
 |S.no.|Assignment|link|
+|-----|----------|----|
+|1.|Python Fundamentals|
+
