@@ -25,4 +25,3 @@ test -account
 
 
 |S.no.|Assignment|link|
-|1.   |basic python fundamentals||
