@@ -17,9 +17,9 @@ test -account
 [rose](https://images.unsplash.com/photo-1667851873721-7e319b4f8633?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cm9zZXN8ZW58MHx8MHx8fDA%3D)
 
 
-7 Nov 2024
-*Machine Learning*
-1.The capabilities of AI systems to   learn by extracting patterns from   data is known as ML.
+7 Nov 2024                                                                                                                                                                                 
+*Machine Learning*                                                                                                                                                                         
+1.The capabilities of AI systems to   learn by extracting patterns from   data is known as ML.                                                                                             
 2.
 
 
