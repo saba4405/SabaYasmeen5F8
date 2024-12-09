@@ -28,3 +28,4 @@ test -account
 |-----|----------|----|
 |1.|Python Fundamentals|[Python](https://github.com/saba4405/SabaYasmeen5F8/blob/1403f0445fa4fbaff24ebc0128d31555a34bc379/assignment_01.ipynb)|
 |2.|Numpy|[Numpy](https://github.com/saba4405/SabaYasmeen5F8/blob/70ad80d7d8114f7d5e0726527397951a66893920/100_Numpy_exercises%20(1).ipynb)|
+|3.|Pandas|[Pandas]
